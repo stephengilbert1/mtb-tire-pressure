@@ -1,4 +1,4 @@
-// tailwind.config.js
+// tailwind.config.cjs
 export default {
   content: ["./index.html", "./src/**/*.{vue,js,ts}"],
   theme: {
